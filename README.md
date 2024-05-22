@@ -1,0 +1,1 @@
+# 1D-array-Chain-of-Pointer-C
